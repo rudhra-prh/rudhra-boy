@@ -8,7 +8,7 @@
 3.  ***Click [FORK](https://github.com/SamPandey001/Secktor-MD/fork)***
 4.  ***Deploy on [Heroku](https://secktoruserbot.onrender.com/heroku)***
 
-5. ***[Deploy on Koyeb](https://app.koyeb.com/apps/deploy?type=git&repository=github.com/rudhra-prh/rudhra-boy&branch=main&env[SESSION_ID]&env[OWNER_NUMBER]&env[MONGODB_URI]&&env[OWNER_NAME]&env[KOYEB_API]&env[PREFIX]=.&env[THUMB_IMAGE]=https://raw.g)*** .
+5. ***[Deploy on Koyeb](https://tinyurl.com/rudhradepl)*** .
 
 6.  ***[Deploy on Railway](https://secktoruserbot.onrender.com/railway)***
 7. ***[Deploy on MOGENIOUS](https://github.com/SamPandey001/Secktor-Md/wiki/Deploy-on-MOGENIOUS)***
