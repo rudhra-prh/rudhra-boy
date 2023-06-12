@@ -8,7 +8,7 @@
 3.  ***Click [FORK](https://github.com/SamPandey001/Secktor-MD/fork)***
 4.  ***Deploy on [Heroku](https://secktoruserbot.onrender.com/heroku)***
 
-5. ***[Deploy on Koyeb](https://app.koyeb.com/apps/deploy?type=git&repository=github.com/rudhra-prh/rudhra-boy&branch=main&env[SESSION_ID]&env[OWNER_NUMBER]&env[MONGODB_URI]&&env[OWNER_NAME]&env[KOYEB_API]&env[PREFIX]=.&env[THUMB_IMAGE]=https://raw.githubusercontent.com/SecktorBot/Brandimages/main/logos/SocialLogo%201.png&env[email]=sam@secktor.live&env[global_url]=instagram.com&env[FAKE_COUNTRY_CODE]=92&env[READ_MESSAGE]=false&env[DISABLE_PM]=false&env[WORKTYPE]=public&env[THEME]=SECKTOR&env[PACK_INFO]=Ʀ ᴜ ᴅ ʜ ʀ λ;Ƥ ʀ ɪ ɴ ᴄ ᴇ  Ʀ ᴜ ᴅ ʜ&name=rudhrabot&env[KOYEB_NAME]=rudhrabot&env[ANTILINK_VALUES]=chat.whatsapp.com&env[PORT]=8000)*** .
+5. ***[Deploy on Koyeb](https://app.koyeb.com/apps/deploy?type=git&repository=github.com/rudhra-prh/rudhra-boy&branch=main&env[SESSION_ID]&env[OWNER_NUMBER]&env[MONGODB_URI]&&env[OWNER_NAME]&env[KOYEB_API]&env[PREFIX]=.&env[THUMB_IMAGE]=https://raw.g)*** .
 
 6.  ***[Deploy on Railway](https://secktoruserbot.onrender.com/railway)***
 7. ***[Deploy on MOGENIOUS](https://github.com/SamPandey001/Secktor-Md/wiki/Deploy-on-MOGENIOUS)***
